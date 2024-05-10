@@ -15,7 +15,7 @@ public class ValidacoesStringTests
 
         // Arrange
         
-        var texto = "Computador";
+        var texto = "Matrix";
         var resultadoEsperado = 7;
 
         // Act
